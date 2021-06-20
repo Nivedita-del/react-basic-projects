@@ -18,7 +18,7 @@ need to get user's physical location
 need to determine the current month 
 need to change text and styling based on location and month
 
-## References :
+### References :
 Rules of state:
 1) only useable with class components (can be used with funtional components using hooks system)
 2) 'state' is a js object that contains data relavent to a singular component 
